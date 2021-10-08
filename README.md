@@ -1,2 +1,2 @@
 # configs
-configs and scripts i use
+configs and scripts for Alp Öztarhan
